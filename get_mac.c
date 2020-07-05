@@ -95,7 +95,7 @@ int main(int argc, char **argv)
 
     } else {
 
-        printf("\nargs fail. try -d <oui dictinary file> -l <lap 11:22:33>\n");
+        printf("\nargs fail. try -d <oui dictinary file> -l <lap 44:55:66\n");
         
     }
 
